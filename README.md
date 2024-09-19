@@ -24,4 +24,4 @@ A simple Pomodoro timer built with Python's `tkinter` library. This app follows 
 3. Run the script using `python3 pomodoro.py`.
 
 ## 📸 Screenshot
-
+![GUI:](pomodoro_screenshot.png)
